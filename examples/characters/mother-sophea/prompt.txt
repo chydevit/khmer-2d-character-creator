@@ -1,0 +1,45 @@
+Create a professional 2D animation character sheet for:
+Mother Sophea
+
+Use the supplied Khmer 2D character reference sheet as the primary visual style reference.
+
+Character: a Cambodian village mother and rice farmer, 36-40 years old, soft oval face, large warm brown
+eyes with gentle smile lines, small rounded nose, full friendly smile, light rosy cheeks, warm tan skin.
+Black hair in a low bun at the nape with a middle part and a few loose strands at the temples.
+Sturdy, capable build, about 6 heads tall, noticeably taller than the child hero.
+
+Personality: warm, hard-working, patient, quietly funny, proud and honest.
+
+Costume: long-sleeve muted indigo blouse with a small round collar and sleeves rolled to the elbows,
+dark brown ankle-length sampot wrap skirt with one simple deep-red woven stripe near the hem,
+plain brown thong sandals.
+
+Color palette: indigo #4f5f86, dark brown #5a3a28, deep red #ab2d2a, cream #efe2c2, warm tan skin #c98f5e,
+bamboo #b88a4a.
+
+Accessories: a red-and-cream checked krama scarf tied loosely around her head as a headwrap, knotted on
+her left side (viewer's right) with a short tail behind the ear; a thin woven-thread bracelet on her
+right wrist (viewer's left); a woven bamboo basket of green vegetables on her left hip (viewer's right).
+No gold jewelry.
+
+Sheet layout:
+Top row: front full-body, 3/4 full-body, side view, back view (showing the bun and headwrap knot).
+Middle row: 8 facial expressions: warm smile, sad, stern-but-loving, surprised, worried, laughing,
+tired, proud.
+Bottom row: 6 action poses: walking with basket, bending to plant rice seedlings, sitting on a wooden
+step, waving, pointing to the field, kneeling with open arms for a hug.
+
+Visual requirements:
+clean white or light warm-neutral background, professional animation model sheet,
+clean dark-brown line art, soft cel shading, warm Cambodian-inspired color palette,
+large expressive eyes, clear silhouettes, consistent proportions,
+consistent face across every pose, high-quality 2D animation concept art,
+full body visible, no cropped feet, no text labels, no watermark.
+
+NEGATIVE PROMPT:
+photorealistic people, 3D CGI, Pixar-like 3D, anime redesign, western comic style,
+different face between poses, random hairstyles, different skin tone between poses,
+different costume colors, gold jewelry, crown, extra fingers, missing fingers, malformed hands,
+duplicate limbs, cropped bodies, cropped feet, floating accessories, random weapons, random text,
+labels, watermarks, logos, blurry faces, inconsistent character height, overly complex backgrounds,
+Thai/Chinese/Japanese/European costume elements, conical hat

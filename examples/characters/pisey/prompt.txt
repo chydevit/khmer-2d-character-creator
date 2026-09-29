@@ -1,0 +1,43 @@
+Style B. Use the supplied bright Khmer chibi character sheet (green-shirt boy, golden-outfit girl) as the
+primary visual style reference — same face construction, big dark-brown eyes, rosy cheeks, head about 1/3
+of total height, clean dark-brown outlines, soft cel shading, bright saturated colors, pure white background.
+This is a NEW character: do not copy the green-shirt boy or the golden-outfit girl.
+
+Create a professional 2D animation character sheet for:
+Pisey
+
+Character: a 7-year-old Cambodian village girl, slightly shorter than the green-shirt boy, about 3 heads
+tall. Round chibi face, big dark-brown eyes with two white highlights, tiny rounded nose, wide happy smile
+with one missing front tooth, rosy cheeks, warm golden-tan skin. Black hair in two low braids falling to
+her shoulders, tied with red ribbons, and a short straight fringe across her forehead. No flower in her hair.
+
+Personality: cheerful, chatty, curious, a little impatient, brave.
+
+Costume: white short-sleeve blouse with a round collar and two small buttons, sky-blue knee-length sampot
+skirt with a white diamond pattern along the hem, pink thong sandals.
+
+Color palette: white #fbf8f2, sky blue #3f9fd8, red #d7282f, yellow #f2c230, pink #e27a9a,
+golden-tan skin #d9a06f, black hair #161110.
+
+Accessories: thin red string bracelet on her left wrist (viewer's right). Prop: a small red-yellow-blue
+diamond kite with a long tail, its string held in her right hand (viewer's left), and a wooden string spool.
+
+Sheet layout:
+Top row: front full-body, 3/4 full-body, side view, back view (showing both braids and ribbons).
+Middle row: 8 facial expressions: happy, sad, angry/pouting, surprised, worried, laughing, thinking, determined.
+Bottom row: 6 action poses: running with the kite flying, looking up pulling the kite string, waving,
+pointing at the sky, sitting cross-legged fixing the kite, sampeah greeting.
+
+Visual requirements:
+pure white background, professional animation model sheet, clean dark-brown line art, soft cel shading,
+bright Cambodian-inspired color palette, large expressive eyes, clear silhouettes, consistent proportions,
+consistent face across every pose, high-quality 2D animation concept art, full body visible,
+no cropped feet, no text labels, no watermark.
+
+NEGATIVE PROMPT:
+photorealistic people, 3D CGI, Pixar-like 3D, anime redesign, western comic style,
+green shirt with red sash, golden sampot outfit, pink flower bob hair,
+different face between poses, random hairstyles, different skin tone between poses, different costume
+colors, gold jewelry, extra fingers, missing fingers, malformed hands, duplicate limbs, cropped bodies,
+cropped feet, floating accessories, random weapons, random text, labels, watermarks, logos, blurry faces,
+inconsistent character height, overly complex backgrounds
