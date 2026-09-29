@@ -10,8 +10,9 @@ Hex codes for Dara, Malis and Sokha are the ones already used in the Keep Growin
 |---|---|---|
 | Dara | 1.00 | slim kid, ~4 heads tall |
 | Malis | 0.97 | slim kid |
-| Lok Ta Sokha | 1.45 | adult, slight stoop |
+| Lok Ta Sokha | 1.34 | adult, slight stoop (film rig H=172) |
 | Veasna | 1.45 | athletic, not bulky |
+| Mother Sophea | 1.38 | sturdy adult woman |
 | Princess Bopha | 1.40 | slender, elegant |
 | King Jayavuth | 1.60 | tallest, broad, powerful |
 | Rotha | 1.52 | lean, hunched-forward dramatic stance |

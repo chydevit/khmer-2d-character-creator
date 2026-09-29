@@ -134,10 +134,11 @@ Khmer cartoon series:
 - give every character one strong color signature (Dara = red scarf + sash, Rotha = dark red cape, ...)
 
 ## 8. Using the characters in a film
-To animate these characters in an MP4, use the `create-animation-2d` skill. Its procedural character
-specs for this world already exist in `episodes/keep_growing_never_stop/story/story_chars.py`
-(BOY = Dara, GIRL = Malis, MASTER = Lok Ta Sokha). Reuse and extend that file's hex colors and specs
-rather than inventing new ones. Voice lines use VoxCPM2 (see AGENTS.md). A Khmer speaker must check
+To animate these characters in an MP4, use the `create-animation-2d` skill. All Style A cast rigs are
+locked in `create-animation-2d/engine/cast_dara.py` (ids: dara, malis, sokha, veasna, bopha, jayavuth,
+rotha, sophea, puppy, monkey, elephant). In a film's `story_chars.py`: `import cast_dara; cast_dara.register()`.
+A new approved character gets a spec added there, reusing its hex colors, and a check sheet
+(`engine/sheet.py <id>`) before any scene is rendered. Voice lines use VoxCPM2 (see AGENTS.md). A Khmer speaker must check
 the Khmer audio before it is published.
 
 ## 9. Content rules

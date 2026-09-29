@@ -73,7 +73,12 @@ Choose one style per film and never mix the two.
 | **Rotha** | Antagonist | Dark red cape, goatee, sly grin |
 | Puppy · Monkey · Baby elephant | Animal companions | Red collar · curled tail · gold head ornament |
 
-Height ladder: Dara 1.00 · Malis 0.97 · Bopha 1.40 · Sokha / Veasna 1.45 · Rotha 1.52 · King 1.60.
+Height ladder: Dara 1.00 · Malis 0.97 · Sokha 1.34 · Sophea 1.38 · Bopha 1.40 · Veasna 1.45 · Rotha 1.52 · King 1.60.
+
+**Animated rigs:** all of them (plus Mother Sophea) are ready to walk, talk and act in films, in
+[`create-animation-2d/engine/cast_dara.py`](https://github.com/chydevit/create-animation-2d/blob/main/engine/cast_dara.py).
+
+<p align="center"><img src="https://raw.githubusercontent.com/chydevit/create-animation-2d/main/docs/images/dara-world-lineup.png" alt="Dara-world rigs" width="100%"></p>
 
 ### New characters (examples, in [`examples/characters/`](examples/characters/))
 | Name | Style | Role | Status |
